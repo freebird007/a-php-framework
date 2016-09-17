@@ -1,0 +1,143 @@
+use mytextblog
+set names utf8
+insert into text(t1) values('111')
+use mytextblog
+set names utf8
+insert into text(t1) values('111')
+use mytextblog
+set names utf8
+insert into 111 () values('')
+use mytextblog
+set names utf8
+insert into Array () values('')
+use mytextblog
+set names utf8
+insert into Array () values('')
+use mytextblog
+set names utf8
+insert into Array () values('')
+use mytextblog
+set names utf8
+insert into Array () values('')
+use mytextblog
+set names utf8
+insert into Array () values('')
+use mytextblog
+set names utf8
+insert into text (t1,t2) values('111','11')
+use mytextblog
+set names utf8
+insert into text (t1,t2) values('11\'da\'\'1','1a\'d\'f1\'\'1')
+use mytextblog
+set names utf8
+insert into Array () values('')
+use mytextblog
+set names utf8
+insert into Array () values('')
+use mytextblog
+set names utf8
+insert into Array () values('')
+use mytextblog
+set names utf8
+insert into text (t1,t2) values('aaa','awd')
+use mytextblog
+set names utf8
+insert into text (t1,t2) values('111','a2245')
+use mytextblog
+set names utf8
+insert into text (t1,t2) values('111','aaah')
+use mytextblog
+set names utf8
+insert into text (t1,t2) values('111','aaah')
+use mytextblog
+set names utf8
+select * from text
+use mytextblog
+set names utf8
+select * from text
+use mytextblog
+set names utf8
+select * from text
+use mytextblog
+set names utf8
+insert into text () values('')
+use mytextblog
+set names utf8
+insert into  (t1,t2) values('111','aaah')
+use mytextblog
+set names utf8
+insert into text () values('')
+use mytextblog
+set names utf8
+insert into text (t1,t2) values('111','aaa')
+use mytextblog
+set names utf8
+insert into  (t1,t2) values('111','aaah')
+use mytextblog
+set names utf8
+insert into  (t1,t2) values('111','aaah')
+use mytextblog
+set names utf8
+insert into  (t1,t2) values('111','aaah')
+use mytextblog
+set names utf8
+insert into text (t1,t2) values('111','aaa')
+use mytextblog
+set names utf8
+insert into text (t1,t2) values('111','aaa')
+use mytextblog
+set names utf8
+insert into cate () values('')
+use mytextblog
+set names utf8
+insert into cate () values('')
+use mytextblog
+set names utf8
+insert into cate () values('')
+use mytextblog
+set names utf8
+insert into cate () values('')
+use mytextblog
+set names utf8
+insert into cate (catename,intro) values('提尔','打的')
+use mytextblog
+set names utf8
+select * from 
+use mytextblog
+set names utf8
+select * from text
+use mytextblog
+set names utf8
+insert into text () values('')
+123456789
+123456789
+Array
+use mytextblog
+set names utf8
+use mytextblog
+set names utf8
+insert into text (t1) values('20')
+use mytextblog
+set names utf8
+insert into text (t1) values('\'dwa\'20\'\'')
+use mytextblog
+set names utf8
+insert into text (t2) values('\'dwa\'20\'\'')
+use mytextblog
+set names utf8
+insert into text (t2) values('\'dwa\'20\'\'')
+use mytextblog
+set names utf8
+insert into cate (catename,intro) values('text','ttss')
+use mytextblog
+set names utf8
+select * from text
+use mytextblog
+set names utf8
+select * from text
+use mytextblog
+set names utf8
+insert into cate (catename,intro) values('aa','dd')
+use mytextblog
+set names utf8
+insert into cate (catename,intro) values('aa','aaa')
