@@ -9,11 +9,11 @@ file config.inc.php
 */
 
 $_CFG=array(
-	'host'=>'localhost',//服务器地址
-	'user'=>'root',//用户名
+	'host'=>'',//服务器地址
+	'user'=>'',//用户名
 	'password'=>'',
-	'db'=>'mytextblog',//链接的数据库
-	'charset'=>'utf8',//字符集的设置
+	'db'=>'',//链接的数据库
+	'charset'=>'',//字符集的设置
 	);
 
 
