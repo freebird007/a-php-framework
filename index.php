@@ -7,6 +7,7 @@ define('ACC',true);//include文件夹中的配置文件为了避免被直接访�
 都要先加载init.php
 */
 
+
 require('./include/init.php');
 //require(ROOT . 'controller/cateadd.php');
 
