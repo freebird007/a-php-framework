@@ -41,7 +41,6 @@ for($i=0;$i<8000;$i++){
 
 echo 'OK';*/
 
-
 //print_r($_GET);
 //测试mysql类是否可以正常添加数据。
 /*$mysql=Mysql::getIns();
